@@ -34,8 +34,6 @@ def main():
 if __name__ == '__main__':
     main()
 
-pip install opencv-python
-
 import streamlit as st
 import cv2
 
